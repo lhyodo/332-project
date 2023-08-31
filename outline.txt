@@ -1,0 +1,34 @@
+book
+	genre
+	author - name - first, last
+	title
+	published date
+	publisher
+
+employee
+	name - first, last
+	wage
+	date hired
+	supervisor
+	
+
+customer
+	phone number
+	name
+	previous rentals
+	currently checked out books
+	current ordered books
+	owed - late fees
+	address
+	
+	
+store
+	location - address - city, street, zipcode
+	store name
+	
+
+department
+	customer service
+	cashier
+	online ordering
+	logistics
